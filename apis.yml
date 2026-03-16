@@ -1,0 +1,42 @@
+aid: chips-alliance
+name: CHIPS Alliance
+description: >-
+  CHIPS Alliance is a Linux Foundation project supporting open source hardware development, fostering collaboration on silicon device designs including CPUs, SoCs, and FPGA tooling. It accelerates innovation and reduces costs in chip development through projects like Chisel, FIRRTL, and OpenROAD.
+type: Index
+position: Consumer
+access: 3rd-Party
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Hardware
+  - Silicon
+  - Open Source
+  - Linux Foundation
+created: '2026-03-16'
+modified: '2026-03-16'
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/chips-alliance/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis:
+  - aid: chips-alliance:chips-alliance-api
+    name: CHIPS Alliance API
+    description: >-
+      API for accessing CHIPS Alliance project information and resources for open source hardware development including CPU, SoC, and FPGA tooling projects.
+    humanURL: https://chipsalliance.org/projects/
+    tags:
+      - Hardware
+      - Silicon
+    properties:
+      - type: Documentation
+        url: https://chipsalliance.org/projects/
+common:
+  - type: Documentation
+    name: CHIPS Alliance Documentation
+    description: Official documentation for CHIPS Alliance.
+    url: https://chipsalliance.org/projects/
+  - type: GitHubOrg
+    name: CHIPS Alliance GitHub
+    description: Source code and repositories for CHIPS Alliance.
+    url: https://github.com/chipsalliance
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
