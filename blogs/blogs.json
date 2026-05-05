@@ -1,0 +1,13 @@
+{
+  "repo": "chips-alliance",
+  "feeds": [
+    {
+      "source": "https://chipsalliance.org/news/",
+      "feed_url": "https://www.chipsalliance.org/news/index.xml",
+      "saved": 10,
+      "title": "Blog on CHIPS Alliance"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:25:13Z"
+}
