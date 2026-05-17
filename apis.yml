@@ -1,6 +1,6 @@
 aid: chips-alliance
 name: CHIPS Alliance
-x-type: opensource
+kind: opensource
 description: >-
   CHIPS Alliance is a Linux Foundation project (founded in 2019) that develops
   open-source hardware (silicon) and tools, including CPUs, SoC subsystems,
