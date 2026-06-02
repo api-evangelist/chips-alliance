@@ -2,12 +2,20 @@
   "repo": "chips-alliance",
   "feeds": [
     {
-      "source": "https://chipsalliance.org/news/",
+      "source": "https://chipsalliance.org/news/index.xml",
       "feed_url": "https://chipsalliance.org/news/index.xml",
-      "title": "Blog on CHIPS Alliance",
-      "saved": 46
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://lists.chipsalliance.org/g/main/subgroups",
+      "feed_url": "https://lists.chipsalliance.org/g/main/subgroups",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "post_count": 56,
-  "fetched": "2026-05-17T20:20:35Z"
+  "post_count": 57,
+  "fetched": "2026-06-01T23:35:02Z"
 }
