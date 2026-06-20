@@ -20,7 +20,7 @@ description: >-
 type: Index
 position: Consumer
 access: Open
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/chips-alliance/refs/heads/main/apis.yml
 tags:
@@ -50,7 +50,7 @@ apis:
       repositories under the github.com/chipsalliance organization. There
       is no centralized HTTP API; integrations occur through Git, package
       managers, and per-project release artifacts.
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     humanURL: https://chipsalliance.org/projects/
     tags:
       - Hardware
