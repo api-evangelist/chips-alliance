@@ -62,6 +62,8 @@ apis:
       - type: GitHubOrg
         url: https://github.com/chipsalliance
 common:
+  - type: DomainSecurity
+    url: security/chips-alliance-domain-security.yml
   - type: Website
     url: https://chipsalliance.org
   - type: Projects
