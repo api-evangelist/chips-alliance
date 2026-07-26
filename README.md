@@ -21,11 +21,6 @@ CHIPS Alliance is a Linux Foundation project (founded in 2019) that develops ope
 
 ## APIs
 
-### CHIPS Alliance Projects
-
-Catalog of open-source hardware and tooling projects hosted by CHIPS Alliance. Project assets are distributed via GitHub repositories under the github.com/chipsalliance organization. There is no centralized HTTP API; integrations occur through Git, package managers, and per-project release artifacts.
-
-- **Human URL:** [https://chipsalliance.org/projects/](https://chipsalliance.org/projects/)
 
 ## Common Properties
 

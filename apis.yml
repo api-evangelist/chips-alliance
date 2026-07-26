@@ -18,9 +18,21 @@ description: >-
   repositories under github.com/chipsalliance and member-driven mailing
   lists.
 type: Index
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+    - plans
+  generated: '2026-07-22'
+  method: derived
 position: Consumer
 access: Open
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/chips-alliance.png
 url: >-
   https://raw.githubusercontent.com/api-evangelist/chips-alliance/refs/heads/main/apis.yml
 tags:
@@ -37,30 +49,9 @@ tags:
   - SoC
   - SystemVerilog
 created: '2026-03-16'
-modified: '2026-04-23'
+modified: '2026-07-25'
 specificationVersion: '0.20'
-apis:
-  - aid: chips-alliance:chips-alliance-projects
-    name: CHIPS Alliance Projects
-    description: >-
-      Catalog of open-source hardware and tooling projects hosted by CHIPS
-      Alliance, including Chisel, F4PGA, Caliptra, VeeR, Surelog/UHDM, FPGA
-      Interchange format, OpenPRoT, Intel Compiler for SystemC, FPGA tool
-      perf, and SV tools. Project assets are distributed via GitHub
-      repositories under the github.com/chipsalliance organization. There
-      is no centralized HTTP API; integrations occur through Git, package
-      managers, and per-project release artifacts.
-    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
-    humanURL: https://chipsalliance.org/projects/
-    tags:
-      - Hardware
-      - Open Source
-      - Silicon
-    properties:
-      - type: Documentation
-        url: https://chipsalliance.org/projects/
-      - type: GitHubOrg
-        url: https://github.com/chipsalliance
+apis: []
 common:
   - type: DomainSecurity
     url: security/chips-alliance-domain-security.yml
