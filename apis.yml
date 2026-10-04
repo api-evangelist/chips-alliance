@@ -54,7 +54,7 @@ tags:
   - Hardware
   - Linux Foundation
   - Open Hardware
-  - Open-Source
+  - Open Source
   - RISC-V
   - SiFive
   - Silicon
@@ -73,6 +73,7 @@ tags_raw:
   - Silicon
   - SoC
   - SystemVerilog
+  - Open-Source
 created: '2026-03-16'
 modified: '2026-07-25'
 specificationVersion: '0.23'
