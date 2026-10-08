@@ -79,6 +79,12 @@ modified: '2026-07-25'
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: Plans
+    url: plans/chips-alliance-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/chips-alliance-rate-limits.yml
+  - type: FinOps
+    url: finops/chips-alliance-finops.yml
   - type: DomainSecurity
     url: security/chips-alliance-domain-security.yml
   - type: Website
